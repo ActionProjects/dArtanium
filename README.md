@@ -1,14 +1,19 @@
 # DArtanium
 Mining for an element
 
-## wtf is Dartanium
+## How to contribute:
 
-<sub>pick the letter corresponding to your choice</sub>
+1. buidl something
 
-A. quick keyword page rank utility.
+2. suggest a project on the project suggestion page
 
-A. state of matter
+3. mention a new idea
 
-A. ideological challenge 
+3.1. find someone who can build the idea
 
-<!-- false dilemmas-->
+3.2. get them to do it
+
+4. help your community
+
+4.1. be an active participant
+- start with picking up some trash.
